@@ -1,0 +1,16 @@
+C:\Users\Sascha\source\repos\Timer\Timer\bin\Debug\net8.0-windows\Timer.exe
+C:\Users\Sascha\source\repos\Timer\Timer\bin\Debug\net8.0-windows\Timer.deps.json
+C:\Users\Sascha\source\repos\Timer\Timer\bin\Debug\net8.0-windows\Timer.runtimeconfig.json
+C:\Users\Sascha\source\repos\Timer\Timer\bin\Debug\net8.0-windows\Timer.dll
+C:\Users\Sascha\source\repos\Timer\Timer\bin\Debug\net8.0-windows\Timer.pdb
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\Timer.Form1.resources
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\Timer.csproj.GenerateResource.cache
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\Timer.AssemblyInfoInputs.cache
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\Timer.AssemblyInfo.cs
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\Timer.dll
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\refint\Timer.dll
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\Timer.pdb
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\Timer.genruntimeconfig.cache
+C:\Users\Sascha\source\repos\Timer\Timer\obj\Debug\net8.0-windows\ref\Timer.dll
